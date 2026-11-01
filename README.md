@@ -40,12 +40,17 @@ With a simple tap, users can turn their phone's LED flashlight ON or OFF through
 
 ## 📸 Screenshots
 
+
+## 📱 App Preview
+
 <p align="center">
   <strong>Flashlight OFF</strong>
 </p>
 
 <p align="center">
-  <img src="screenshots/flashlight-off.png" width="280" alt="Laal Teen flashlight off screen"/>
+  <img src="app/src/main/res/drawable/laal_teen_off.png"
+       width="280"
+       alt="Laal Teen OFF"/>
 </p>
 
 <p align="center">
@@ -53,15 +58,9 @@ With a simple tap, users can turn their phone's LED flashlight ON or OFF through
 </p>
 
 <p align="center">
-  <img src="screenshots/flashlight-on.png" width="280" alt="Laal Teen flashlight on screen"/>
-</p>
-
-<p align="center">
-  <strong>App Icon</strong>
-</p>
-
-<p align="center">
-  <img src="screenshots/app-icon.png" width="150" alt="Laal Teen app icon"/>
+  <img src="app/src/main/res/drawable/laal_teen_on.png"
+       width="280"
+       alt="Laal Teen ON"/>
 </p>
 
 *Add your screenshots to a folder named `screenshots` in the repository.*
