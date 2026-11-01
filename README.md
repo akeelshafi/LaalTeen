@@ -65,8 +65,6 @@ With a simple tap, users can turn their phone's LED flashlight ON or OFF through
   </tr>
 </table>
 
-*Add your screenshots to a folder named `screenshots` in the repository.*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
